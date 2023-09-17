@@ -1,0 +1,7 @@
+C:\Users\ranjan.goit\source\repos\OOPS\OOPS\bin\Debug\OOPS.exe.config
+C:\Users\ranjan.goit\source\repos\OOPS\OOPS\bin\Debug\OOPS.exe
+C:\Users\ranjan.goit\source\repos\OOPS\OOPS\bin\Debug\OOPS.pdb
+C:\Users\ranjan.goit\source\repos\OOPS\OOPS\obj\Debug\OOPS.csproj.AssemblyReference.cache
+C:\Users\ranjan.goit\source\repos\OOPS\OOPS\obj\Debug\OOPS.csproj.CoreCompileInputs.cache
+C:\Users\ranjan.goit\source\repos\OOPS\OOPS\obj\Debug\OOPS.exe
+C:\Users\ranjan.goit\source\repos\OOPS\OOPS\obj\Debug\OOPS.pdb
