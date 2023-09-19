@@ -1,0 +1,7 @@
+C:\Users\ranjan.goit\source\repos\SecondAssignment\SecondAssignment\bin\Debug\SecondAssignment.exe.config
+C:\Users\ranjan.goit\source\repos\SecondAssignment\SecondAssignment\bin\Debug\SecondAssignment.exe
+C:\Users\ranjan.goit\source\repos\SecondAssignment\SecondAssignment\bin\Debug\SecondAssignment.pdb
+C:\Users\ranjan.goit\source\repos\SecondAssignment\SecondAssignment\obj\Debug\SecondAssignment.csproj.AssemblyReference.cache
+C:\Users\ranjan.goit\source\repos\SecondAssignment\SecondAssignment\obj\Debug\SecondAssignment.csproj.CoreCompileInputs.cache
+C:\Users\ranjan.goit\source\repos\SecondAssignment\SecondAssignment\obj\Debug\SecondAssignment.exe
+C:\Users\ranjan.goit\source\repos\SecondAssignment\SecondAssignment\obj\Debug\SecondAssignment.pdb
